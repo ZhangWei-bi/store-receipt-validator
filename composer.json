@@ -2,6 +2,12 @@
     "name": "aporat/store-receipt-validator",
     "description": "PHP receipt validator for Apple iTunes, Google Play and Amazon App Store",
     "type": "library",
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ZhangWei-bi/store-receipt-validator.git"
+        }
+    ],
     "authors": [
         {
             "name": "Adar Porat",
