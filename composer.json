@@ -54,5 +54,14 @@
     },
     "support": {
         "issues": "https://github.com/aporat/store-receipt-validator/issues"
+    },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/ZhangWei-bi/store-receipt-validator"
+    }
+    ],
+    "require": {
+        "ZhangWei-bi/store-receipt-validator": "dev-master"
     }
 }
