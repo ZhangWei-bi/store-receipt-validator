@@ -32,7 +32,8 @@
         "nesbot/carbon": "^1.0|^2.0",
         "google/apiclient": "^2.10",
         "google/apiclient-services": "~0.249",
-        "robrichards/xmlseclibs": "^3.0.4"
+        "robrichards/xmlseclibs": "^3.0.4",
+        "ZhangWei-bi/store-receipt-validator": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
@@ -60,8 +61,5 @@
         "type": "vcs",
         "url": "https://github.com/ZhangWei-bi/store-receipt-validator"
     }
-    ],
-    "require": {
-        "ZhangWei-bi/store-receipt-validator": "dev-master"
-    }
+    ]
 }
