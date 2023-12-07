@@ -38,7 +38,8 @@
         "ZhangWei-bi/store-receipt-validator": "dev-master"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.0"
+        "phpunit/phpunit": "^9.0",
+        "ZhangWei-bi/store-receipt-validator": "dev-master"
     },
     "config": {
         "preferred-install": "dist",
